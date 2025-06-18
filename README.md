@@ -134,3 +134,7 @@ Após configurar o ambiente virtual e os arquivos de dados sensíveis, você pod
 python app.py
 
 O Biochat estará acessível via navegador web no endereço http://127.0.0.1:5000.
+
+## ⚖️ Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
